@@ -1,4 +1,4 @@
-# AnLinux
+# Linux Installer for Android 
 
 pkg update && pkg upgrade
 pkg install figlet
